@@ -1,4 +1,4 @@
- saphyra-py3
+ # saphyra-py3
  
  This is the Saphyra DDos Tool
  It was created by Anonymous and upgraded to python3 by ChronoX
